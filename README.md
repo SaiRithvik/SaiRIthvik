@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-🚀About me
-I am an Artificial Intelligence Researcher with a demonstrated history of working in the information technology and services industry. Skilled in Machine Learning Algorithms, Deep Learning, Data analysis, Image Processing, Python and C Language. Though coming from a "Non-Computer Science" field, the impact that AI can create has constantly motivated me in learning the principles of AI. Have experience in working on various ML and DL projects, also worked on data handling and visualization tasks. Looking forward to apply my knowledge in the real world problems which will help the world in a better way. 
+🚀About me <br/>
+I am an Artificial Intelligence Researcher with a demonstrated history of working in the information technology and services industry. Skilled in Machine Learning Algorithms, Deep Learning, Data analysis, Image Processing, Python and C Language. Though coming from a "Non-Computer Science" field, the impact that AI can create has constantly motivated me in learning the principles of AI. Have experience in working on various ML and DL projects, also worked on data handling and visualization tasks. Looking forward to apply my knowledge in the real world problems which will help the world in a better way. <br/>
 
-📌Skills
+📌Skills<br/>
 ✔️ Machine Learning Algorithms     
 ✔️ Deep Learning
 ✔️ Computer Vision
 ✔️ Image Processing
 ✔️ Image Segmentation
 ✔️ Tensorflow, Keras, OpenCV                                           
-
+<br/>
 
 📌 Projects 
 ✔️ Brain tumor Segmentation using U-Net
@@ -34,12 +34,12 @@ I am an Artificial Intelligence Researcher with a demonstrated history of workin
 ✔️ Data Analysis of COVID-19 Dataset
 ✔️ Image classification of MNIST data using Random Forest Classifier
 
-
+<br/>
 🏆 Other than Acads
 🏏 Very fond of playing cricket, participated in Inter-Department Cricket League at IIT Madras.
 ✈️ Would love to explore places across the world.
-
-Thanks for visiting my profile
+<br/>
+Thanks for visiting my profile<br/>
 😊 It was awesome to e-meet you 😊
 
 
