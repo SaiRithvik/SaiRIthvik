@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Im Sai Rithvik! 👋
 
 <!--
 **SaiRithvik/SaiRithvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me
+I am an Artificial Intelligence Researcher with a demonstrated history of working in the information technology and services industry. Skilled in Machine Learning Algorithms, Deep Learning,Python and C Language.
+
+Though coming from a "Non- Computer Science" field, the impact that AI can create has constantly motivated me in learning the state of the the art methods in AI. Have experience in working on various Data handling and Visualization Projects using Python. Looking forward to apply my knowledge in the real world problems which will help the world in a better way. 
