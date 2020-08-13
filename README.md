@@ -26,14 +26,12 @@ I am an Artificial Intelligence Researcher with a demonstrated history of workin
 ✔️ Image Segmentation<br/>
 ✔️ Tensorflow, Keras, OpenCV<br/>                                           
 <br/>
-
 📌 Projects <br/>
 ✔️ Brain tumor Segmentation using U-Net<br/>
 ✔️ Detection of COVID-19 from Chest X-rays using Convolutional Neural Networks<br/>
 ✔️ Live face mask detection using Transfer Learning<br/>
 ✔️ Data Analysis of COVID-19 Dataset<br/>
 ✔️ Image classification of MNIST data using Random Forest Classifier<br/>
-
 <br/>
 🏆 Other than Acads<br/>
 🏏 Very fond of playing cricket, participated in Inter-Department Cricket League at IIT Madras.<br/>
