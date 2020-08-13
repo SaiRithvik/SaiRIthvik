@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 I am an Artificial Intelligence Researcher with a demonstrated history of working in the information technology and services industry. Skilled in Machine Learning Algorithms, Deep Learning, Data analysis, Image Processing, Python and C Language. Though coming from a "Non-Computer Science" field, the impact that AI can create has constantly motivated me in learning the principles of AI. Have experience in working on various ML and DL projects, also worked on data handling and visualization tasks. Looking forward to apply my knowledge in the real world problems which will help the world in a better way. 
 
 📌Skills
-✔️ Machine Learning Algorithms     ✔️ OpenCV
-✔️ Deep Learning                   ✔️ Computer Vision
-✔️ Tensorflow                      ✔️ Image Processing
-✔️ Keras                           ✔️ Image Segmentation
+✔️ Machine Learning Algorithms     
+✔️ Deep Learning
+✔️ Computer Vision
+✔️ Image Processing
+✔️ Image Segmentation
+✔️ Tensorflow, Keras, OpenCV                                           
 
 
 📌 Projects 
