@@ -1,4 +1,4 @@
-### Hi there, Im Sai Rithvik! 👋
+### Hi there, I'm Sai Rithvik! 👋
 
 <!--
 **SaiRithvik/SaiRithvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
