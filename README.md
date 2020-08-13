@@ -35,7 +35,7 @@ I am an Artificial Intelligence Researcher with a demonstrated history of workin
 <br/>
 🏆 Other than Acads<br/>
 🏏 Very fond of playing cricket, participated in Inter-Department Cricket League at IIT Madras.<br/>
-✈️ Would love to explore places across the world.<br/>
+✈️ Looking forward to go on a world tour.<br/>
 <br/>
 Thanks for visiting my profile<br/>
 😊 It was awesome to e-meet you 😊
