@@ -38,6 +38,7 @@ I am an Artificial Intelligence Researcher with a demonstrated history of workin
 ✈️ Looking forward to go on a world tour.<br/>
 <br/>
 Thanks for visiting my profile<br/>
+You can contact me at : kanakamedalasairithvik@gmail.com 
 😊 It was awesome to e-meet you 😊
 
 
