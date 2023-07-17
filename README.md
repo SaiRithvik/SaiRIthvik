@@ -24,7 +24,7 @@ I am an Artificial Intelligence Researcher with a demonstrated history of workin
 ✔️ Computer Vision<br/>
 ✔️ Image Processing<br/>
 ✔️ Image Segmentation<br/>
-✔️ Tensorflow, Keras, OpenCV                                       
+✔️ PyTorch, Tensorflow, Keras, OpenCV                                       
 <br/>
 📌 Projects <br/>
 ✔️ Brain tumor Segmentation using U-Net<br/>
